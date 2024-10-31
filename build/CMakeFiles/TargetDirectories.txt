@@ -1,0 +1,3 @@
+C:/Users/acer/Desktop/Лабы структурки/build/CMakeFiles/MyExecutable.dir
+C:/Users/acer/Desktop/Лабы структурки/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/acer/Desktop/Лабы структурки/build/CMakeFiles/ZERO_CHECK.dir
